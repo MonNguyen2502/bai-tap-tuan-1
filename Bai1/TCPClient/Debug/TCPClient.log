@@ -1,0 +1,4 @@
+﻿  TCPClient.cpp
+c:\users\hason\source\repos\bai1\tcpclient\tcpclient.cpp(5): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro redefinition
+  c:\users\hason\source\repos\bai1\tcpclient\tcpclient.cpp(5): note: command-line arguments:  see previous definition of '_WINSOCK_DEPRECATED_NO_WARNINGS'
+  TCPClient.vcxproj -> C:\Users\hason\source\repos\Bai1\Debug\TCPClient.exe
