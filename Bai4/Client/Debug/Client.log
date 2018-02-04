@@ -1,0 +1,7 @@
+﻿  Client.cpp
+c:\users\hason\source\repos\bai4\client\client.cpp(5): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro redefinition
+  c:\users\hason\source\repos\bai4\client\client.cpp(5): note: command-line arguments:  see previous definition of '_WINSOCK_DEPRECATED_NO_WARNINGS'
+c:\users\hason\source\repos\bai4\client\client.cpp(52): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+c:\users\hason\source\repos\bai4\client\client.cpp(52): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+  LINK : C:\Users\hason\source\repos\Bai4\Debug\Client.exe not found or not built by the last incremental link; performing full link
+  Client.vcxproj -> C:\Users\hason\source\repos\Bai4\Debug\Client.exe
